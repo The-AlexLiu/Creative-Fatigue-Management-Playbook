@@ -1,4 +1,4 @@
-# Creative Fatigue Management Playbook 2026
+# Creative Fatigue Management Playbook
 
 **素材衰退管理方法：从爆款依赖到素材组合运营的经验沉淀**
 
