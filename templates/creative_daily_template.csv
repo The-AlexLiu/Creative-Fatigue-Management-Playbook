@@ -1,0 +1,2 @@
+date,platform,campaign_name,adset_name,ad_name,creative_id,creative_name,launch_date,spend,impressions,reach,clicks,purchases,gmv,creator_name,post_id,landing_url,utm,creative_angle,hook,format,status
+2026-06-01,Meta,US_ASC_Purchase,ASC_All,UGC_hook01,cr_001,UGC pain point hook,2026-05-20,120.5,25000,16000,420,18,650,creator_a,123456789,https://example.com/product?ref=creator_a,ref=creator_a&utm_source=facebook&utm_medium=cpm&utm_campaign={{ad.name}},pain point,before after,video,active

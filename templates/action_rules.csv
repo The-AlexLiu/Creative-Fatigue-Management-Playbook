@@ -1,0 +1,5 @@
+rule_level,trigger,action,notes
+yellow,"top3_gmv_share > 0.60 OR top1_gmv_share > 0.30","Prepare same-angle variants","Do not replace winning creatives before new variants have spend."
+orange,"frequency >= 2.5 AND roas_decay_rate <= -0.20","Refresh hook, cover, first 3 seconds, creator cut","Prioritize adding variants into existing stable ad sets/campaigns."
+red,"roas below target AND cpa_increase_rate >= 0.20 AND ctr_decay_rate <= -0.20","Reduce budget or pause after checking attribution and sample size","Do not judge on very low spend."
+black,"top3 creatives decline together AND no tested replacement creatives","Stop scaling and refill creative pipeline","High GMV volatility risk."
